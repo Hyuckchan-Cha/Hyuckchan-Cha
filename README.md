@@ -11,8 +11,8 @@ My goal is to understand human learning, cognition, and memory in the brain thro
 
 ### 📌 Currently
 - Research Intern at the Data Science Laboratory, SNU (advisor: Prof. Junghyo Jo)
-  - Estimating Fused Latent and Graphical (FLaG) models under booklet missingness, validated on synthetic data and PISA 2018 ([FLaG-PISA-Experiment](https://github.com/Hyuckchan-Cha/FLaG-PISA-Experiment))
-  - Identifiability and estimation limits of explicitly representing ability (θ) alongside sparse item graphs ([VAE-graph-experiment](https://github.com/Hyuckchan-Cha/VAE-graph-experiment))
+  - Estimating Fused Latent and Graphical (FLaG) models under booklet missingness, validated on synthetic data and PISA 2018 ([FLaG-PISA-Experiment](https://github.com/Hyuckchan-Cha/FLaG-PISA-Experiment); private, available on request)
+  - Identifiability and estimation limits of explicitly representing ability (θ) alongside sparse item graphs ([VAE-graph-experiment](https://github.com/Hyuckchan-Cha/VAE-graph-experiment); private, available on request; last updated Oct 2026, not the latest version)
 - Incoming exchange student at UC Berkeley (Spring 2027)
 
 ### 🛠️ Tools
